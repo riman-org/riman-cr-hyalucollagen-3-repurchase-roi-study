@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-cr-hyalucollagen-3-repurchase-roi-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical & Microclimate Evaluation of Hyalucollagen-3 Repurchase Dynamics in Costa Rica
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The introduction of patented bioactive complexes into tropical markets requires rigorous validation of sensory performance against local humidity profiles. Methods: A stratified survey (N=200) was conducted across three distinct Costa Rican microclimates (Limon, San Jose, Liberia) to assess the Hyalucollagen-3 complex. Quantitative Results: Overall composite mean was 3.43 with a Top-2-Box score of 45.6%. Notably, 94.0% of respondents affirmed the immediate cooling/soothing benefit for post-sun exposure (Q03), while only 0.5% trusted the '1000x water attraction' claim without clinical backing (Q04). NPS stood at -28.0, driven by distribution barriers (87.5%) and long-term efficacy uncertainty (98.5%). Strategic Implications: Conversion from starter kits to full rituals is heavily dependent on visible results within 2 weeks (100% selection rate). Affluent segments show higher tolerance for premium pricing but demand strict regulatory compliance evidence. This study underscores the necessity of localized clinical data to bridge the trust gap in emerging Latin American markets.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-cr-hyalucollagen-3-repurchase-roi-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-cr-hyalucollagen-3-repurchase-roi-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/cr-hyalucollagen-3-repurchase-roi-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  cr-hyalucollagen-3-repurchase-roi-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, costa rica
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-cr-hyalucollagen-3-repurchase-roi-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/cr-hyalucollagen-3-repurchase-roi-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable
