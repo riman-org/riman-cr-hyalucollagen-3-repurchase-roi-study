@@ -1,0 +1,23 @@
+================================================================================
+Kaggle = Create from GitHub Repository（推荐，不走本地上传）
+================================================================================
+New Dataset:  https://www.kaggle.com/datasets?new=true
+GitHub URL:   https://github.com/riman-org/riman-cr-hyalucollagen-3-repurchase-roi-study
+Suggested slug / URL:  rimanwin/riman-cr-hyalucollagen-3-repurchase-roi-study
+Title (<=50): RIMAN Costa Rica Hyalucollagen-3 Study (n=200)
+Subtitle (<=80): Channel & Drop-Ship Viability, INCI Index & 6-Language Dataset (n=200)
+License: CC BY 4.0
+Public: Yes
+
+Steps:
+  1) Open https://www.kaggle.com/datasets?new=true
+  2) Title / URL slug as above
+  3) Data source → choose **Github Repository**
+  4) Paste: https://github.com/riman-org/riman-cr-hyalucollagen-3-repurchase-roi-study
+  5) Create Dataset  (Kaggle pulls files from GitHub; no local bandwidth)
+  6) Optional later: Settings → enable auto interval updates from GitHub
+  7) Data Card → Metadata: Authors / Coverage / DOI / Citations（API 无法写入）
+
+After create, dataset page should be:
+  https://www.kaggle.com/datasets/rimanwin/riman-cr-hyalucollagen-3-repurchase-roi-study
+================================================================================
